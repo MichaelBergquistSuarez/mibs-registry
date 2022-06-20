@@ -294,8 +294,9 @@
         "type": "indirect"
       },
       "to": {
-        "path": "/home/michael/github.com/MichaelBergquistSuarez/mix/flakes",
-        "type": "path"
+        "owner": "MichaelBergquistSuarez",
+        "repo": "mix",
+        "type": "github"
       }
     }
   ],
