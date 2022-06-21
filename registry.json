@@ -298,6 +298,16 @@
         "repo": "mix",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "mix-path",
+        "type": "indirect"
+      },
+      "to": {
+        "path": "/home/michael/github.com/MichaelBergquistSuarez/mix",
+        "type": "path"
+      }
     }
   ],
   "version": 2
